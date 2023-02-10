@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\IFly\bin\Debug\net6.0\IFly.deps.json
+C:\Users\Admin\source\repos\IFly\bin\Debug\net6.0\IFly.dll
+C:\Users\Admin\source\repos\IFly\bin\Debug\net6.0\ref\IFly.dll
+C:\Users\Admin\source\repos\IFly\bin\Debug\net6.0\IFly.pdb
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.dll
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\ref\IFly.dll
+C:\Users\Admin\source\repos\IFly\obj\Debug\net6.0\IFly.pdb

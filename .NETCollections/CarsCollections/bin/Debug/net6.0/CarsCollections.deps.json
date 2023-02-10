@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarsCollections/1.0.0": {
+        "dependencies": {
+          "CarPark": "1.0.0"
+        },
+        "runtime": {
+          "CarsCollections.dll": {}
+        }
+      },
+      "CarPark/1.0.0": {
+        "runtime": {
+          "CarPark.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarsCollections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarPark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

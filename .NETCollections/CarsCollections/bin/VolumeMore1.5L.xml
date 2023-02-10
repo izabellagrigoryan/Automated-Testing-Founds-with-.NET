@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarsCollections>
+  <Car>
+    <CarName>Passenger Car</CarName>
+    <Engine Volume="5Liter" />
+  </Car>
+  <Car>
+    <CarName>Truck</CarName>
+    <Engine Volume="10Liter" />
+  </Car>
+  <Car>
+    <CarName>Bus</CarName>
+    <Engine Volume="10Liter" />
+  </Car>
+  <Car>
+    <CarName>Scooter</CarName>
+    <Engine Volume="2Liter" />
+  </Car>
+  <Car>
+    <CarName>Vehicle</CarName>
+    <Engine Volume="2Liter" />
+  </Car>
+</CarsCollections>

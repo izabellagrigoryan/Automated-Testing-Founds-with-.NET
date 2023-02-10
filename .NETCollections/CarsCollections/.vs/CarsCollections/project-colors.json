@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c84f040-eb44-47aa-98a4-f44363e44022": {
+      "ProjectGuid": "2c84f040-eb44-47aa-98a4-f44363e44022",
+      "DisplayName": "CarPark",
+      "ColorIndex": 0
+    },
+    "460c34b0-060d-4347-8cee-851c5d31860c": {
+      "ProjectGuid": "460c34b0-060d-4347-8cee-851c5d31860c",
+      "DisplayName": "CarsCollections",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

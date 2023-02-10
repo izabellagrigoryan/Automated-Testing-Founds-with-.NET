@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ConvertDecimal.exe
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ConvertDecimal.deps.json
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ConvertDecimal.runtimeconfig.json
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ConvertDecimal.dll
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ref\ConvertDecimal.dll
+C:\Users\Admin\source\repos\ConvertDecimal\bin\Debug\net6.0\ConvertDecimal.pdb
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.dll
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ref\ConvertDecimal.dll
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.pdb
+C:\Users\Admin\source\repos\ConvertDecimal\obj\Debug\net6.0\ConvertDecimal.genruntimeconfig.cache

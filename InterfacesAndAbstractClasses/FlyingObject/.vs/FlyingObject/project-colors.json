@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39aff968-eb4e-4fd5-8ad8-bd371b055a73": {
+      "ProjectGuid": "39aff968-eb4e-4fd5-8ad8-bd371b055a73",
+      "DisplayName": "FlyingObject",
+      "ColorIndex": 0
+    },
+    "9695414d-a7f7-4cdf-bc61-a6eb28e74384": {
+      "ProjectGuid": "9695414d-a7f7-4cdf-bc61-a6eb28e74384",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "3ec8d4a4-9d82-488a-8fdd-6ae9c625f8da": {
+      "ProjectGuid": "3ec8d4a4-9d82-488a-8fdd-6ae9c625f8da",
+      "DisplayName": "IFly",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

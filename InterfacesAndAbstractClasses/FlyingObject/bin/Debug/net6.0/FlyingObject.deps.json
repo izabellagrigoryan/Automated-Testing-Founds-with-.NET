@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlyingObject/1.0.0": {
+        "dependencies": {
+          "IFly": "1.0.0"
+        },
+        "runtime": {
+          "FlyingObject.dll": {}
+        }
+      },
+      "IFly/1.0.0": {
+        "runtime": {
+          "IFly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlyingObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IFly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

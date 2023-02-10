@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarsCollections>
+  <TransmissionType>Handle</TransmissionType>
+  <Car>
+    <CarName>Passenger Car</CarName>
+    <Engine Type="Mustang" />
+    <Engine SerialNumber="23Nov23" />
+    <Engine Power="60" />
+    <Engine Volume="5" />
+    <Chassis Wheelsnumber="4" />
+    <Chassis Number="190" />
+    <Chassis PermissibleLoad="2347" />
+    <Transmission Manufacturer="Manufact" />
+    <Transmission NumberofGears="6" />
+  </Car>
+  <Car>
+    <CarName>Truck</CarName>
+    <Engine Type="Belarus" />
+    <Engine SerialNumber="23Aug23" />
+    <Engine Power="160" />
+    <Engine Volume="10" />
+    <Chassis Wheelsnumber="4" />
+    <Chassis Number="190" />
+    <Chassis PermissibleLoad="2347" />
+    <Transmission Manufacturer="Manufact" />
+    <Transmission NumberofGears="6" />
+  </Car>
+  <Car>
+    <CarName>Bus</CarName>
+    <Engine Type="Ikarus" />
+    <Engine SerialNumber="23Mar23" />
+    <Engine Power="260" />
+    <Engine Volume="10" />
+    <Chassis Wheelsnumber="4" />
+    <Chassis Number="190" />
+    <Chassis PermissibleLoad="2347" />
+    <Transmission Manufacturer="Manufact" />
+    <Transmission NumberofGears="6" />
+  </Car>
+  <Car>
+    <CarName>Scooter</CarName>
+    <Engine Type="Bird" />
+    <Engine SerialNumber="23Feb23" />
+    <Engine Power="160" />
+    <Engine Volume="2" />
+    <Chassis Wheelsnumber="4" />
+    <Chassis Number="190" />
+    <Chassis PermissibleLoad="2347" />
+    <Transmission Manufacturer="Manufact" />
+    <Transmission NumberofGears="6" />
+  </Car>
+  <TransmissionType>Automat</TransmissionType>
+  <Car>
+    <CarName>Vehicle</CarName>
+    <Engine Type="Bird" />
+    <Engine SerialNumber="23Feb23" />
+    <Engine Power="160" />
+    <Engine Volume="2" />
+    <Chassis Wheelsnumber="40" />
+    <Chassis Number="1900" />
+    <Chassis PermissibleLoad="2347" />
+    <Transmission Manufacturer="Manufact" />
+    <Transmission NumberofGears="10" />
+  </Car>
+</CarsCollections>

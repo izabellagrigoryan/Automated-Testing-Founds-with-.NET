@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyingObject", "FlyingObject.csproj", "{39AFF968-EB4E-4FD5-8AD8-BD371B055A73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9695414D-A7F7-4CDF-BC61-A6EB28E74384}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFly", "..\IFly\IFly.csproj", "{3EC8D4A4-9D82-488A-8FDD-6AE9C625F8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39AFF968-EB4E-4FD5-8AD8-BD371B055A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AFF968-EB4E-4FD5-8AD8-BD371B055A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AFF968-EB4E-4FD5-8AD8-BD371B055A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AFF968-EB4E-4FD5-8AD8-BD371B055A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC8D4A4-9D82-488A-8FDD-6AE9C625F8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC8D4A4-9D82-488A-8FDD-6AE9C625F8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC8D4A4-9D82-488A-8FDD-6AE9C625F8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC8D4A4-9D82-488A-8FDD-6AE9C625F8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A61DAE-444F-43E6-8C4C-D51F6FF417D4}
+	EndGlobalSection
+EndGlobal
